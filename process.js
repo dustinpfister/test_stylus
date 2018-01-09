@@ -58,15 +58,3 @@ fs.ensureDir(source).then(function () {
 
 });
 
-/*
-stylus.middleware({
-
-src: __dirname,
-dest: __dirname + '/public'
-
-});
-
-stylus.use(connect.static(__dirname + '/public'));
-
-console.log(stylus);
-*/
