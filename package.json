@@ -1,0 +1,15 @@
+{
+  "name": "test_stylus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "stylus": "^0.54.5"
+  }
+}
